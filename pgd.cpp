@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include <stdio.h>
+#include <cstdio>
 
 //Color codes to color terminal output
 #define COLOR_RED "\033[0;31m"
